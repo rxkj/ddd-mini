@@ -18,11 +18,11 @@
 # 成绩展示页（二）
 ![成绩展示页](https://github.com/rxkj/ddd/blob/master/Screenshot_20190905_101336_com.tencent.mm.jpg)
 # 今日课程展示页
-![今日课程展示页](https://github.com/rxkj/ddd/master/Screenshot_20190410_151533_com.tencent.mm.jpg)
+![今日课程展示页](https://github.com/rxkj/ddd/blob/master/微信截图_20190905101621.png)
 # 关于页
-![关于页](https://github.com/rxkj/ddd/master/Screenshot_20190410_151305_com.tencent.mm.jpg)
+![关于页](https://github.com/rxkj/ddd/blob/master/微信截图_20190905101642.png)
 # 更新日志页
-![更新日志页](https://github.com/rxkj/-We--/blob/master/Screenshot_20190410_151308_com.tencent.mm.jpg)
+![更新日志页](https://github.com/rxkj/ddd/blob/master/微信截图_20190905101706.png)
 # 如觉得不错，请给予star。如需开发属于您学院的小程序助手，可以通过邮件方式联系我。
 # 邮箱：hjrxkj@163.com
 # 感谢您的支持！
