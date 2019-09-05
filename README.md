@@ -10,13 +10,13 @@
 # 我的功能页
 ![我的功能页](https://github.com/rxkj/ddd/blob/master/Screenshot_20190905_101105_com.tencent.mm.jpg)
 # 教务功能页
-![教务功能页](https://github.com/rxkj/ddd/master/Screenshot_20190905_101321_com.tencent.mm.jpg)
+![教务功能页](https://github.com/rxkj/ddd/blob/master/Screenshot_20190905_101321_com.tencent.mm.jpg)
 # 课表展示页
-![课表展示页](https://github.com/rxkj/ddd/master/Screenshot_20190905_101325_com.tencent.mm.jpg)
+![课表展示页](https://github.com/rxkj/ddd/blob/master/Screenshot_20190905_101325_com.tencent.mm.jpg)
 # 成绩展示页（一）
-![成绩展示页](https://github.com/rxkj/ddd/master/Screenshot_20190905_101332_com.tencent.mm.jpg)
+![成绩展示页](https://github.com/rxkj/ddd/blob/master/Screenshot_20190905_101332_com.tencent.mm.jpg)
 # 成绩展示页（二）
-![成绩展示页](https://github.com/rxkj/ddd/master/Screenshot_20190905_101336_com.tencent.mm.jpg)
+![成绩展示页](https://github.com/rxkj/ddd/blob/master/Screenshot_20190905_101336_com.tencent.mm.jpg)
 # 今日课程展示页
 ![今日课程展示页](https://github.com/rxkj/ddd/master/Screenshot_20190410_151533_com.tencent.mm.jpg)
 # 关于页
