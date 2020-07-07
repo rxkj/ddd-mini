@@ -1,4 +1,6 @@
 # -叮当达跑腿小程序--
+图片无法加载的可以打开码云。
+https://gitee.com/gzhxkj/campus_running_system
 
 # 效果图：
 # 前端1
